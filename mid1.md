@@ -90,3 +90,4 @@ int main(void)
 }
 
 ```
+<img width="901" height="713" alt="스크린샷 2026-10-26 오후 3 22 33" src="https://github.com/user-attachments/assets/b7776a7a-b993-47a7-9d7a-4aaa2896baf7" />
